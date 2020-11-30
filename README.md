@@ -1,4 +1,4 @@
-# reverse-polish-notation-calculator
+# ReversePolishNotationCalculator
 
 Takes numbers in "x y operator" format and ouputs the solution to "x operator y".
 
